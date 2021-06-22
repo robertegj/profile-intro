@@ -1,7 +1,11 @@
 # Whoami
 I am someone who enjoys learning, making, and sharing.  
-- 🇺🇸
-- 😼
+I ❤️ ...
+- 🎸
+- 💻
+- 🦜
+- 🗣
+Long term goals? 💾 me ➡ ☁ 
 
 ## How did I make this?
 Making a Github profile readme kind of feels like a bit of a trick or a hack.  
