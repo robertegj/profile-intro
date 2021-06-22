@@ -1,5 +1,6 @@
 # Whoami
-I am someone who enjoys learning, making, and sharing.  
+Someone who enjoys learning, making, and sharing.  
+Curringly living in the USA  
 I ❤️ ...
 - 🎸
 - 💻
