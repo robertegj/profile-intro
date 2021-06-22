@@ -1,4 +1,8 @@
-# How did I make this?
+# Whoami
+I am someone who enjoys learning, making, and sharing.  
+- 🇺🇸
+
+## How did I make this?
 Making a Github profile readme kind of feels like a bit of a trick or a hack.  
 Instead of there being a setting to enable like GitHub pages, to get a profile readme:  
 - Create a Repo with the same name as your username.   
