@@ -5,7 +5,8 @@ I ❤️ = 🎸+ 💻 + 🦜 + 🥁
 
 Long term goals? 💾 me 🧑 ➡ ☁ 
 
-> Talk is cheap. Show me the code. 
+> Talk is cheap. Show me the code.
+>  
 > — Linus Torvalds 
 
 ## REACH ME
