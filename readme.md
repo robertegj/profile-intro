@@ -1,13 +1,14 @@
 # Whoami
-
-### reach me
-[![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-guidry/)
-
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
 I ❤️ = 🎸+ 💻 + 🦜 + 🥁
 
 Long term goals? 💾 me 🧑 ➡ ☁ 
+
+### reach me
+[![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-guidry/)
+
+
 
 ## How did I make this?
 Making a Github profile readme kind of feels like a bit of a trick or a hack.  
