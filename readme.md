@@ -8,6 +8,8 @@ Long term goals? 💾 me 🧑 ➡ ☁
 ### reach me
 [![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-guidry/)
 
+### skills, tools, and things I love
+[![Generic badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 
 ## How did I make this?
