@@ -1,3 +1,5 @@
+> Talk is cheap. Show me the code. - Linus Torvalds 
+
 # WHOAMI
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
