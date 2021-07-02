@@ -1,11 +1,11 @@
-> Talk is cheap. Show me the code. - Linus Torvalds 
-
 # WHOAMI
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
 I ❤️ = 🎸+ 💻 + 🦜 + 🥁
 
 Long term goals? 💾 me 🧑 ➡ ☁ 
+
+> Talk is cheap. Show me the code. - Linus Torvalds 
 
 ## REACH ME
 [![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-guidry/)
