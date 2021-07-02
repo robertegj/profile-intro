@@ -10,6 +10,9 @@ Long term goals? 💾 me 🧑 ➡ ☁
 
 ### skills, tools, and things I love
 [![Generic badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Generic badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.kernel.org/)
+[![Generic badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.kernel.org/)
+[![Generic badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.kernel.org/)
 
 
 ## How did I make this?
