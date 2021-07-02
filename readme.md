@@ -1,5 +1,6 @@
 # Whoami
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://google.com})
+[![Generic badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://google.com)
+
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
 I ❤️ = 🎸+ 💻 + 🦜 + 🥁
