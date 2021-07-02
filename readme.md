@@ -1,11 +1,7 @@
 # Whoami
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
-I ❤️ ...
-- 🎸
-- 💻
-- 🦜
-- 🗣  
+I ❤️ = 🎸+ 💻 + 🦜 + 🥁
 
 Long term goals? 💾 me ➡ ☁ 
 
