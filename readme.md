@@ -1,7 +1,7 @@
 # WHOAMI - [Interactive Version](https://robertegj.github.io/robertegj/)
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
-I ❤️ = 🎸+ 💻 + 🦜 + 🥁
+i❤️ = 🎸+ 💻 + 🦜 + 🥁
 
 Long term goals? 💾 me 🧑 ➡ ☁ 
 
