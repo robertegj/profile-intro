@@ -1,4 +1,9 @@
 # WHOAMI - [Interactive Version](https://robertegj.github.io/robertegj/)
+## Fun Projects
+- [Guitar-Chords](https://robertegj.github.io/Guitar-Chords/)
+- [Typing-Game](https://robertegj.github.io/Typing-Game/)
+- [Flash-Cards](https://robertegj.github.io/Flash-Cards/)
+
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
 i ❤️ 🎸 💻 🛹
