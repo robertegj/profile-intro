@@ -1,9 +1,9 @@
-# WHOAMI - [Interactive Version](https://robertegj.github.io/robertegj/)
+# WHOAMI
 ## Fun Projects
-- [Guitar-Chords 🎸](https://robertegj.github.io/Guitar-Chords/)
-- [Typing-Game ⌨](https://robertegj.github.io/Typing-Game/)
-- [Flash-Cards 🧠](https://robertegj.github.io/Flash-Cards/)
 - [Evil Logins 🕵🏻‍♀️](https://github.com/robertegj/evil-login-pages)
+- [Flash Cards 🧠](https://robertegj.github.io/Flash-Cards/)
+- [Guitar Chords 🎸](https://robertegj.github.io/Guitar-Chords/)
+- [Typing Game ⌨](https://robertegj.github.io/Typing-Game/)
 
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
