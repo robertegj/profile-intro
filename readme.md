@@ -1,9 +1,4 @@
 # WHOAMI
-## Fun Projects
-- [Evil Logins 🕵🏻‍♀️](https://github.com/robertegj/evil-login-pages)
-- [Flash Cards 🧠](https://robertegj.github.io/Flash-Cards/)
-- [Guitar Chords 🎸](https://robertegj.github.io/Guitar-Chords/)
-- [Typing Game ⌨](https://robertegj.github.io/Typing-Game/)
 
 Someone who enjoys learning, making, and sharing.  
 Curringly living in the USA  
@@ -14,6 +9,13 @@ Long term goals? 💾 me 🧑 ➡ ☁
 Currently, some of my github pages have been flagged as malicious 🕵🏻‍♂️  
 This is kind of a flex; There is no malicious code in my repos, feel free to audit the repos and the code within.  
 I think the "Evil Logins" project did it :]
+
+## Fun Projects
+- [Evil Logins 🕵🏻‍♀️](https://github.com/robertegj/evil-login-pages)
+- [Flash Cards 🧠](https://robertegj.github.io/Flash-Cards/)
+- [Guitar Chords 🎸](https://robertegj.github.io/Guitar-Chords/)
+- [Typing Game ⌨](https://robertegj.github.io/Typing-Game/)
+
 
 > Talk is cheap. Show me the code.
 >  
