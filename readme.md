@@ -11,6 +11,10 @@ i ❤️ 🎸 💻 🛹
 
 Long term goals? 💾 me 🧑 ➡ ☁ 
 
+Currently, some of my github pages have been flagged as malicious 🕵🏻‍♂️  
+This is kind of a flex; There is no malicious code in my repos, feel free to audit the repos and the code within.  
+I think the "Evil Logins" project did it :]
+
 > Talk is cheap. Show me the code.
 >  
 > — Linus Torvalds 
